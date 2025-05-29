@@ -11,7 +11,6 @@ A beautiful and responsive website designed to showcase the beauty of adventure 
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
-
+- 
 ## Project Purpose
 This project was created to learn and demonstrate front-end web development skills using modern design principles.
